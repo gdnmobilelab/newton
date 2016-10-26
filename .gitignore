@@ -1,0 +1,6 @@
+.idea
+*.zip
+config
+node_modules
+.ebextensions
+.ebignore
